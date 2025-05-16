@@ -26,7 +26,7 @@ get_header();
             <div class="row">
                 <div class="d-flex flex-column col-md mb-4 mb-md-0">
                     <h2>Weekly Worship Schedule</h2>
-                    Join us for worship on Sunday mornings at 9:00 am and 10:30 am.
+                    Join us for worship on Sunday mornings at 9:30 am.
                     <div class="mt-auto">
                         <a class="btn btn-primary btn-sm mt-3" href="<?php echo esc_url(home_url('sermons')); ?>">Sermons</a>
                         <a class="btn btn-primary btn-sm mt-3" href="https://www.rightnowmedia.org/Account/Invite/CollegeParkChurch" target="_blank">RightNow Media</a>
